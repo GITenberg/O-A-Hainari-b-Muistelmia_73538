@@ -1,0 +1,31 @@
+_repo: O-A-Hainari-b-Muistelmia_73538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Relander, O. (Oskar)
+    aliases:
+    - Relander, Karl Adolf Oskar
+    - Relander, Oskar
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '8119'
+    url: http://www.gutenberg.org/2009/agents/8119
+    wikipedia: https://fi.wikipedia.org/wiki/Oskar_Relander
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73538'
+language: fi
+pgterms:marc905: 20240320015301relander
+pgterms:marc906: '1017'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bKansanvalistusseura, $c1017.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'O. A. Hainari : $b Muistelmia'
+url: http://www.gutenberg.org/ebooks/73538
