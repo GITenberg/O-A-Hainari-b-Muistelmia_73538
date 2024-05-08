@@ -1,5 +1,8 @@
 _repo: O-A-Hainari-b-Muistelmia_73538
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Relander, O. (Oskar)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8119
     wikipedia: https://fi.wikipedia.org/wiki/Oskar_Relander
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73538#O-A-Hainari-b-Muistelmia
 gutenberg_issued: '2024-05-04'
 gutenberg_type: Text
 identifiers:
